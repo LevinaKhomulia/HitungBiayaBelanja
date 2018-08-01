@@ -10,9 +10,9 @@
 
 ## Backlog 
 1. User Dapat Memasukkan daftar **Kode barang , Kode Barang , Nama Barang , Harga Barang , Pajak Barang**.
-1.1 User dapat Menambah Isi Data Barang
-1.2 User dapat Mengedit Isi Data Barang
-1.3 User dapat Mengedit Isi Data Barang
+- User dapat Menambah Isi Data Barang
+- User dapat Mengedit Isi Data Barang
+- User dapat Mengedit Isi Data Barang
 
 2. User dapat menghitung Total Belanja
 
