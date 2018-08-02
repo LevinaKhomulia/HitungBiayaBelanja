@@ -3,7 +3,7 @@
  
 ## **17 TI 1**
 
-### Anggota Kelompok
+## Anggota Kelompok
 - Reynaldo Fang 
 - Levina Khomulia
 - Richard Cenderawan
