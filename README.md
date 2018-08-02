@@ -14,7 +14,7 @@
 - User dapat Mengedit Isi Data Barang
 - User dapat Mengedit Isi Data Barang
 
-2. User dapat menghitung Total Belanja
+2. User dapat menghitung **Total Belanja**
 
 
 
